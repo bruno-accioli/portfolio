@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: "/portfolio"
-# url : "https://bruno-accioli.github.io/portfolio/"
+url : ""https://bruno-accioli.github.io"
 
 # Blog Settings
 theme_settings :
